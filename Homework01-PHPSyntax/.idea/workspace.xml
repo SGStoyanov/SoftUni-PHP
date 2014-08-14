@@ -35,7 +35,7 @@
       <file leaf-file-name="07.GetFormData.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="86" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.76293105" vertical-offset="156" max-vertical-offset="646">
+            <state line="3" column="103" selection-start="377" selection-end="377" vertical-scroll-proportion="0.109913796" vertical-offset="0" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -468,11 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="2" selection-start="70" selection-end="70" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="187" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02.SumTwoNumbers.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="129" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="544" />
@@ -527,7 +522,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="86" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.76293105" vertical-offset="156" max-vertical-offset="646">
+        <state line="3" column="103" selection-start="377" selection-end="377" vertical-scroll-proportion="0.109913796" vertical-offset="0" max-vertical-offset="646">
           <folding />
         </state>
       </provider>
