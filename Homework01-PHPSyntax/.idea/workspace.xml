@@ -23,55 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01.PersonalInfo.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <file leaf-file-name="08.TimeUntilNewYear.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://C:/Program Files/XAMPP/htdocs/Homeworks/Homework01-PHPSyntax/08.TimeUntilNewYear.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
+            <state line="17" column="2" selection-start="1116" selection-end="1116" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="391">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03.DumpVariable.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="2" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05.LazySundays.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="1" selection-start="464" selection-end="464" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08.TimeUntilNewYear.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08.TimeUntilNewYear.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="2" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.6228448" vertical-offset="0" max-vertical-offset="464">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06.InformationTable.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06.InformationTable.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="2" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="578">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="07.GetFormData.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="07.GetFormData.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="646">
+            <state line="30" column="86" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.76293105" vertical-offset="156" max-vertical-offset="646">
               <folding />
             </state>
           </provider>
@@ -95,8 +59,8 @@
         <option value="$PROJECT_DIR$/06.InformationTable.php" />
         <option value="$PROJECT_DIR$/05.LazySundays.php" />
         <option value="$PROJECT_DIR$/07.GetFormData.html" />
-        <option value="$PROJECT_DIR$/07.GetFormData.php" />
         <option value="$PROJECT_DIR$/08.TimeUntilNewYear.php" />
+        <option value="$PROJECT_DIR$/07.GetFormData.php" />
       </list>
     </option>
   </component>
@@ -179,12 +143,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="SearchEverywhereHistory" value="''" />
   </component>
-  <component name="RunManager" selected="PHP Script.08.TimeUntilNewYear.php">
-    <configuration default="false" name="03.DumpVariable.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/03.DumpVariable.php">
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.07.GetFormData.php">
     <configuration default="false" name="04.NonRepeatingDigits.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/04.NonRepeatingDigits.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
@@ -209,8 +168,16 @@
       <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="07.GetFormData.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/07.GetFormData.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -222,20 +189,36 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.03.DumpVariable.php" />
+    <configuration default="false" name="08-2" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="C:/Program Files/XAMPP/htdocs/Homeworks/Homework01-PHPSyntax/08.TimeUntilNewYear.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PHPWeb" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="XAMPP" start_url="/Homeworks/Homework01-PHPSyntax/08.TimeUntilNewYear.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.08-2" />
       <item index="1" class="java.lang.String" itemvalue="PHP Script.04.NonRepeatingDigits.php" />
       <item index="2" class="java.lang.String" itemvalue="PHP Script.05.LazySundays.php" />
       <item index="3" class="java.lang.String" itemvalue="PHP Script.06.InformationTable.php" />
       <item index="4" class="java.lang.String" itemvalue="PHP Script.08.TimeUntilNewYear.php" />
+      <item index="5" class="java.lang.String" itemvalue="PHP Web Application.PHPWeb" />
+      <item index="6" class="java.lang.String" itemvalue="PHP Script.07.GetFormData.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.08.TimeUntilNewYear.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.06.InformationTable.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.05.LazySundays.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.04.NonRepeatingDigits.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.03.DumpVariable.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.07.GetFormData.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.08.TimeUntilNewYear.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.06.InformationTable.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.05.LazySundays.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.04.NonRepeatingDigits.php" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +246,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -289,10 +272,101 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/08.TimeUntilNewYear.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.InformationTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="2" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.DumpVariable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06.InformationTable.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="2" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01.PersonalInfo.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="2" selection-start="475" selection-end="475" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
@@ -413,7 +487,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/06.InformationTable.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="2" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="578">
+        <state line="28" column="2" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.7512195" vertical-offset="168" max-vertical-offset="578">
           <folding />
         </state>
       </provider>
@@ -430,23 +504,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="1057" selection-end="1057" vertical-scroll-proportion="-17.653847" vertical-offset="0" max-vertical-offset="646">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05.LazySundays.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="464" selection-end="464" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="408">
+        <state line="15" column="1" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="408">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/08.TimeUntilNewYear.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="2" selection-start="1116" selection-end="1116" vertical-scroll-proportion="0.6228448" vertical-offset="0" max-vertical-offset="464">
+        <state line="16" column="0" selection-start="977" selection-end="977" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/XAMPP/htdocs/Homeworks/Homework01-PHPSyntax/08.TimeUntilNewYear.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="2" selection-start="1116" selection-end="1116" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07.GetFormData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="86" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.76293105" vertical-offset="156" max-vertical-offset="646">
           <folding />
         </state>
       </provider>

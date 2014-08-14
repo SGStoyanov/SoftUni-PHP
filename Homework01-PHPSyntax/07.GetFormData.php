@@ -28,6 +28,6 @@
 
 <?php
 if (isset($_POST['mySubmit'])) {
-    echo 'My name is ' . $_POST["name"] . '.' . ' I am ' . $_POST["age"] . ' years old. I am ' . $_POST["sex"] . '.';
+    echo 'My name is ' . htmlentities($_POST["name"]) . '.' . ' I am ' . htmlentities($_POST["age"]) . ' years old. I am ' . $_POST["sex"] . '.';
 }
 ?>
