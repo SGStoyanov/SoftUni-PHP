@@ -27,15 +27,41 @@
         <entry file="file://$PROJECT_DIR$/01.PrintTags.php">
           <provider selected="true" editor-type-id="text-editor">
             <state line="6" column="0" selection-start="387" selection-end="1598" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="714">
+              <folding>
+                <marker date="1408041501113" expanded="true" signature="4:382" placeholder="..." />
+                <marker date="1408041501113" expanded="true" signature="408:485" placeholder="..." />
+                <marker date="1408041501113" expanded="true" signature="492:761" placeholder="..." />
+                <marker date="1408041501113" expanded="true" signature="506:753" placeholder="..." />
+                <marker date="1408041501113" expanded="true" signature="572:723" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02.MostFrequentTag.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.MostFrequentTag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="3" selection-start="806" selection-end="806" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="816">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02.MostFrequentTag.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/02.MostFrequentTag.php">
+      <file leaf-file-name="03.CalculateInterest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03.CalculateInterest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="3" selection-start="806" selection-end="806" vertical-scroll-proportion="0.21219513" vertical-offset="253" max-vertical-offset="816">
+            <state line="29" column="18" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1326">
+              <folding>
+                <marker date="1408109698778" expanded="true" signature="1869:2718" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04.HTMLTagsCounter.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04.HTMLTagsCounter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="47" column="2" selection-start="2308" selection-end="2308" vertical-scroll-proportion="1.12" vertical-offset="323" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -53,6 +79,9 @@
       <list>
         <option value="$PROJECT_DIR$/01.PrintTags.php" />
         <option value="$PROJECT_DIR$/02.MostFrequentTag.php" />
+        <option value="$PROJECT_DIR$/03.CalculateInterest.php" />
+        <option value="$PROJECT_DIR$/04. HTMLTagsCounter.php" />
+        <option value="$PROJECT_DIR$/04.HTMLTagsCounter.php" />
       </list>
     </option>
   </component>
@@ -123,7 +152,7 @@
     <property name="SearchEverywhereHistory" value="[" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Web Application.01.PrintTagsW">
+  <component name="RunManager" selected="PHP Web Application.PHPWeb-04.HTMLTagsCounter">
     <configuration default="false" name="01.PrintTags.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/01.PrintTags.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpScriptDebugRunner" />
@@ -147,6 +176,16 @@
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
       <method />
     </configuration>
+    <configuration default="false" name="PHPScript-03.CalculateInterest" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/03.CalculateInterest.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PHPScript-04.HTMLTagsCounter" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/04.HTMLTagsCounter.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="01.PrintTagsW" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP" start_url="/Homeworks/Homework02-PHPForms/01.PrintTags.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
@@ -154,9 +193,25 @@
       <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="PHP Script.01.PrintTags.php" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Web Application.01.PrintTagsW" />
+    <configuration default="false" name="PHPWeb-03.CalculateInterest" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP" start_url="/Homeworks/Homework02-PHPForms/03.CalculateInterest.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PHPWeb-04.HTMLTagsCounter" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP" start_url="/Homeworks/Homework02-PHPForms/04.HTMLTagsCounter.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.PHPScript-03.CalculateInterest" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.PHPScript-04.HTMLTagsCounter" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.01.PrintTags.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Web Application.01.PrintTagsW" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Web Application.PHPWeb-03.CalculateInterest" />
+      <item index="5" class="java.lang.String" itemvalue="PHP Web Application.PHPWeb-04.HTMLTagsCounter" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -185,10 +240,10 @@
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987013" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -221,20 +276,42 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01.PrintTags.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="0" selection-start="387" selection-end="1598" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="714">
-          <folding />
+          <folding>
+            <marker date="1408041501113" expanded="true" signature="4:382" placeholder="..." />
+            <marker date="1408041501113" expanded="true" signature="408:485" placeholder="..." />
+            <marker date="1408041501113" expanded="true" signature="492:761" placeholder="..." />
+            <marker date="1408041501113" expanded="true" signature="506:753" placeholder="..." />
+            <marker date="1408041501113" expanded="true" signature="572:723" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02.MostFrequentTag.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="3" selection-start="806" selection-end="806" vertical-scroll-proportion="0.21219513" vertical-offset="253" max-vertical-offset="816">
+        <state line="20" column="3" selection-start="806" selection-end="806" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03.CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="18" selection-start="1327" selection-end="1327" vertical-scroll-proportion="-18.961538" vertical-offset="0" max-vertical-offset="1326">
+          <folding>
+            <marker date="1408109698778" expanded="true" signature="1869:2718" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04.HTMLTagsCounter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="2" selection-start="2308" selection-end="2308" vertical-scroll-proportion="1.12" vertical-offset="323" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
