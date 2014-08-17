@@ -5,6 +5,7 @@ submitted, the script should generate a list of the tags, sorted by frequency.
 Then you must print: "Most Frequent Tag is: [most frequent tag]". Semantic HTML is required. Styling is not required. -->
 
 <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Problem 2 - The Most Frequent Tag</title>

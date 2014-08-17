@@ -10,6 +10,7 @@ Semantic HTML is required. Styling is not required.-->
 
 
 <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Problem 3 - Calculate Interest</title>

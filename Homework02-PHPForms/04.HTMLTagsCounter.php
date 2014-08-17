@@ -8,7 +8,6 @@ Hint: You may use sessions. Use an array to store all valid HTML5 tags. -->
 
 <?php session_start() ?>
 <!DOCTYPE html>
-
 <html>
 <head>
     <title>Tag Counter</title>

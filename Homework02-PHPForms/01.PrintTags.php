@@ -5,6 +5,7 @@ When the information is submitted, the script should split the tags, put them in
 Semantic HTML is required. Styling is not required.-->
 
 <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Problem 1 - Print Tags</title>
