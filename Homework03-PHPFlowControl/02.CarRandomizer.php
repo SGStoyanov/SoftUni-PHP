@@ -50,7 +50,7 @@ Styling the page is optional. -->
             foreach ($carsArr as $carInd => $car) {
                 $randCarKey = array_rand($carsArr);
                 $randColorKey = array_rand($colorsArr);
-                $randNum = rand(1, 10);
+                $randNum = rand(1, 6);
                 echo (
                     '<tr><td>' . $car . '</td><td>' . $colorsArr[$randColorKey] . '</td><td>' . $randNum . '</td></tr>'
                 );
