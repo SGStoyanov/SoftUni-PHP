@@ -28,20 +28,20 @@ contain the sum of all values in the Square column. Styling the page is optional
             </thead>
             <tbody>
         <?php
-        $squareRootSum = 0;
+        $sum = 0;
         for ($i = 0; $i <= 100; $i+=2) :
-            $squareRoot = number_format((sqrt($i)), 2, '.', '');
-
-            $squareRootSum += floatval($squareRoot);
-            ?>
-            <tr>
-                <td><?php echo $i . '</td><td>' . ($squareRoot + 0)?></td> <!-- $squareRoot + 0 - removing the trailing zeros -->
-            </tr>
+            $squareRoot = sqrt($i);
+            $sqrtRounded = round($squareRoot, 2);
+            $sum += $squareRoot;
+        ?>
+                <tr>
+                    <td><?php echo $i . '</td><td>' . $sqrtRounded ?></td> <!-- $squareRoot + 0 - removing the trailing zeros -->
+                </tr>
         <?php endfor; ?>
             </tbody>
             <tfoot>
                 <tr>
-                    <td>Total:</td><td><?php echo $squareRootSum ?></td>
+                    <td>Total:</td><td><?php echo round($sum, 2) ?></td>
                 </tr>
             </tfoot>
         </table>
